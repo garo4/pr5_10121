@@ -5,7 +5,7 @@ import androidx.appcompat.app.AppCompatActivity;
 import android.app.ListActivity;
 import android.os.Bundle;
 
-public class Argentina extends ListActivity {
+public class Argentina extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
